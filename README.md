@@ -1,6 +1,6 @@
 ## Hi there, I'm Dominic 👋
 
-I'm a physics and computer science graduate currently training to be a Java Developer and Consultant. In my own time I have started working on growing my MSc Java Physics Engine dissertation project into a basic game engine. 
+I'm a physics and computer science graduate currently training to be a Java Developer and Consultant. In my own time I have started working on growing my MSc Java Physics Engine project into a basic game engine.
 
 ### Languages and Tools
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
